@@ -1,7 +1,14 @@
 body    {
-    background-color: lightgreen;
+    background-color: burlywood;
+    padding: 10%;
 }
 
 h1      {
+    size: 26px;
+}
+
+p       {
     size: 16px;
+    font-family: sans-serif;
+    color: saddlebrown;
 }
